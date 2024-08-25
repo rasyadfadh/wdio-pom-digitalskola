@@ -1,2 +1,2 @@
-# wdio-digitalscola
-Tugas Sesi 9  Web Automation Fundamentals
+# wdio-pom-digitalskola
+Tugas Sesi 10 Web Automation Advance Page Object
